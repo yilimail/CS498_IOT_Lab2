@@ -3,7 +3,7 @@ This repo contains files related to CS 498 Lab2 - Edge Networking
 
 Contributors:
 
-Alexey Burlakov (NetID: alexeyb2) 
+Alexey Burlakov (NetID: alexeyb2) <br />
 Christopher Lewis (NetID: calewis4) 
 Li Yi (NetID: liyi2) 
 Pui Sze Pansy Ng (NetID: ppn2) 
