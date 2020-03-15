@@ -23,8 +23,8 @@ The code collect MAC addresses, returns the number of cliets have unique MAC add
 
 To get the code work: <br />
 
-Upoad Air_quality.ino to Arduino UNO board connected with MQ-135 sensor. <br />
-Upload sniffing6.ino to ESP8266 connected with Xbee. <br />
-On RPi. executing app.py and xbeeRead.py <br />
-In a local network, go to http://192.168.1.34:8181 <br />
+1. Upoad Air_quality.ino to Arduino UNO board connected with MQ-135 sensor. <br />
+2. Upload sniffing6.ino to ESP8266 connected with Xbee. <br />
+3. On RPi. executing app.py and xbeeRead.py <br />
+4. In a local network, go to http://192.168.1.34:8181 <br />
 Enjoy <br />
